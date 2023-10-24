@@ -1,4 +1,4 @@
-READ ME
+SCHOOL LINK LIBRARY PROJECT
 
 DESCRIPTION:
 This is a basic HTML project with some light CSS integration. It is nothing fancy, but it is a working project I am using for my own webdev journey.
@@ -17,9 +17,36 @@ REQUIREMENTS:
 HTML-capable web browser.
 A working internet connection.
 
+USAGE:
+It's an HTML file, the links should take you to the websites as described. If you want steal my code (as basic as it is), feel free.
+
 TROUBLESHOOTING:
 If you find a broken link, let me know!
+
+HOW TO CONTRIBUTE:
+You can contribute by:
+    - suggesting websites to add to my growing list.
+    - suggesting changes I can make to the overall design for accessibility/convenience-sake.
 
 FAQ:
 Is anyone even going to read this?
     - Probably not, but that is still okay. It is called practice for a reason.
+
+LICENSE:
+School Link Library Project - An HTML repository of resources for students.
+    Copyright (C) <year>  <name of author>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+
